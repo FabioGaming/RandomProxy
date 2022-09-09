@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Version>1.0-Dev-1.0</Version>
+    <Authors>FabioTheFox</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Description>A NuGet Package to help you out whenever you need a random Proxy or a Proxy list for mulitple types!</Description>
+    <NeutralLanguage>en</NeutralLanguage>
+    <PackageTags>Proxy, RandomProxy, REST, REST API, REST Wrapper, API Wrapper</PackageTags>
+    <Copyright>FabioTheFox</Copyright>
+    <Company>FabiDev</Company>
+    <RepositoryType>GIT</RepositoryType>
+  </PropertyGroup>
+
+</Project>
