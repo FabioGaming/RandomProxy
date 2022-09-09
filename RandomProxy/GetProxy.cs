@@ -5,7 +5,7 @@ using System.Net;
 
 namespace RandomProxy
 {
-    class GetProxy
+    public class GetProxy
     {
         
         public enum proxyType
